@@ -1,0 +1,38 @@
+=============== May 1, 2018 (BST) ===============
+22:50:20.353722 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:50:20.359756 db@open opening
+22:50:20.361093 version@stat F·[] S·0B[] Sc·[]
+22:50:20.362770 db@janitor F·2 G·0
+22:50:20.362840 db@open done T·3.037185ms
+=============== May 1, 2018 (BST) ===============
+22:50:40.902855 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:50:40.903386 version@stat F·[] S·0B[] Sc·[]
+22:50:40.903438 db@open opening
+22:50:40.903631 journal@recovery F·1
+22:50:40.915476 journal@recovery recovering @1
+22:50:40.917777 memdb@flush created L0@2 N·11 S·724B "H\x15\xc4..q$\xb1,v5":"\x93?\xa9..\x04\x9c\xcc,v2"
+22:50:40.925775 version@stat F·[1] S·724B[724B] Sc·[0.25]
+22:50:40.930320 db@janitor F·3 G·0
+22:50:40.930395 db@open done T·26.925908ms
+=============== May 2, 2018 (BST) ===============
+20:34:56.443269 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:34:56.446150 version@stat F·[1] S·724B[724B] Sc·[0.25]
+20:34:56.446186 db@open opening
+20:34:56.446315 journal@recovery F·1
+20:34:56.452824 journal@recovery recovering @3
+20:34:56.456143 memdb@flush created L0@5 N·3 S·290B "Blo..ion,v14":"dbU..ata,v13"
+20:34:56.461391 version@stat F·[2] S·1014B[1014B] Sc·[0.50]
+20:34:56.470226 db@janitor F·4 G·0
+20:34:56.470516 db@open done T·24.156833ms
+21:27:41.287805 db@close closing
+21:27:41.289016 db@close done T·1.208053ms
+=============== May 2, 2018 (BST) ===============
+23:44:27.575574 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:44:27.582383 version@stat F·[2] S·1014B[1014B] Sc·[0.50]
+23:44:27.582428 db@open opening
+23:44:27.583324 journal@recovery F·1
+23:44:27.584932 journal@recovery recovering @6
+23:44:27.699518 memdb@flush created L0@8 N·1338 S·67KiB "Blo..ion,v17":"\xfeg>..\xbc\x8ai,v1354"
+23:44:27.700933 version@stat F·[3] S·68KiB[68KiB] Sc·[0.75]
+23:44:27.974747 db@janitor F·5 G·0
+23:44:27.974836 db@open done T·392.363803ms
