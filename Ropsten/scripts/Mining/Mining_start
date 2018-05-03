@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+geth attach /Volumes/External/Ethereum_project/Blockchain_Networks/Ropsten/geth.ipc < /Volumes/External/Ethereum_project/Blockchain_Networks/Ropsten/scripts/Mining/start.sh
