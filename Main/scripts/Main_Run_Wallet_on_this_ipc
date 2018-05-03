@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+
+/Applications/Ethereum\ Wallet.app/Contents/MacOS/Ethereum\ Wallet --rpc /Volumes/External/Ethereum_project/Blockchain_Networks/Main/geth.ipc

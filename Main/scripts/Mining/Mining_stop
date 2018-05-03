@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+geth attach /Volumes/External/Ethereum_project/Blockchain_Networks/Main/geth.ipc < /Volumes/External/Ethereum_project/Blockchain_Networks/Main/scripts/Mining/stop.sh
